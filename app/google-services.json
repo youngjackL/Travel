@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153477148391",
+    "project_id": "travell-a41e1",
+    "storage_bucket": "travell-a41e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153477148391:android:685f3d540f54e0972cbc42",
+        "android_client_info": {
+          "package_name": "com.example.travell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1u6h51ZXH0V99cDKg9uVEbuGtbJRZUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
